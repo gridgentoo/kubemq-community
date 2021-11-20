@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/kubemq-io/kubemq-community
+
 ![Docker](https://github.com/kubemq-io/kubemq-community/actions/workflows/docker-image.yml/badge.svg) ![goreleaser](https://github.com/kubemq-io/kubemq-community/actions/workflows/goreleaser.yml/badge.svg) ![Go Report Card](https://goreportcard.com/badge/github.com/kubemq-io/kubemq-community)
 # What is KubeMQ Community?
 
